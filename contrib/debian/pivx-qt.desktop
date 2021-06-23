@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Belle
+Comment= K9S P2P Cryptocurrency
+Comment[fr]= K9S, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= K9S, eşten eşe kriptografik sanal para birimi
+Exec=belle-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=Belle-qt

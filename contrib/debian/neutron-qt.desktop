@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Belle 
+Comment=Belle P2P Cryptocurrency
+Comment[fr]=Belle, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Belle, eşten eşe kriptografik sanal para birimi
+Exec=belle-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/belle;
+Categories=Office;Finance;
+StartupWMClass=belle-qt
